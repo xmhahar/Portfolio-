@@ -1,2 +1,2 @@
-# Portfolio
-My personal portfolio web
+# My Portfolio
+My personal portfolio website with HTML & CSS
